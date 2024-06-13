@@ -1,12 +1,12 @@
 # Detailed information about the average time spent by user on social media
 ## 1.Global Averages
-Average Time Spent: As of recent reports, the average daily time spent on social media worldwide is approximately 2 hours and 30 minutes. This figure has been steadily increasing over the years.
+Average Time Spent: As of recent reports, the average daily time spent on social media worldwide is approximately more than 5 hours and 30 minutes. This figure has been steadily increasing over the years.
 
 ### 2.Demographic Breakdown
 Age Groups:
 
-16-24 years: This age group spends the most time on social media, averaging around 3 hours and 20 minutes per day.
-25-34 years: Users in this age range spend about 2 hours and 45 minutes daily.
+16-24 years: This age group spends the most time on social media, averaging around 7 hours and 20 minutes per day.
+25-34 years: Users in this age range spend about 4 hours and 45 minutes daily.
 35-44 years: They spend an average of 2 hours and 10 minutes on social media.
 45-54 years: This group spends roughly 1 hour and 45 minutes.
 55-64 years: Average time is around 1 hour and 20 minutes.
@@ -14,14 +14,12 @@ Age Groups:
 
 #### 3.Gender Differences:
 
-Women generally spend slightly more time on social media than men, with an average of 2 hours and 45 minutes compared to 2 hours and 15 minutes for men.
+Women generally spend slightly more time on social media than men, with an average of 7 hours and 45 minutes compared to 4 hours and 15 minutes for men.
 
 ##### Platform Preferences
 Facebook: Still one of the leading platforms, users spend an average of 58 minutes per day.
 YouTube: Users spend approximately 40 minutes daily watching videos.
 Instagram: The average daily time spent is around 30 minutes.
-TikTok: Users are engaging more, with an average of 52 minutes per day.
-Snapchat: The average time is about 30 minutes daily.
 Twitter: Users spend about 10 minutes per day on this platform.
 
 ######  summary of the income generated from social media advertising and influencer marketing in Australia, the United States, and the United Kingdom:
